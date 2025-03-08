@@ -1,0 +1,13 @@
+     NO	 									./textures/alga.png 
+F 251, 208, 177
+
+WE ./textures/peces.png
+
+SO ./textures/alga.png   
+
+EA ./textures/bob_esponja.png
+							C	 0, 46, 61
+
+ 1
+1N1
+ 1

@@ -1,2 +1,2 @@
-# 42_Cub3D
-Recreation of the Wolfenstein game with raycasting!
+# Cub3D
+This project aims to be the most amazing Cub3d project has ever existed.
