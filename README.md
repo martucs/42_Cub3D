@@ -1,2 +1,2 @@
 # Cub3D
-This project aims to be the most amazing Cub3d project has ever existed.
+A recreation of the Wolfenstein videogame. Done with the raycasting method and with angles (not vectors).
